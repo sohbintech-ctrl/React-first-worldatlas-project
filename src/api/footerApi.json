@@ -1,0 +1,17 @@
+[
+  {
+    "icon": "MdPlace",
+    "title": "Find us",
+    "address": "Kathmandu, Nepal"
+  },
+  {
+    "icon": "IoCallSharp",
+    "title": "Call us",
+    "phone": "+977-9800000000"
+  },
+  {
+    "icon": "TbMailPlus", 
+    "title": "Mail us",
+    "email": "hello@example.com" 
+  }
+]      
